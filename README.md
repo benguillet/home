@@ -1,2 +1,2 @@
-# home
+# Home
 My dev environment(s).
