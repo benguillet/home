@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Fail fast.
+set -e
+
 HOSTNAME='sweet-home'
 
 echo $HOSTNAME > /tmp/hostname
